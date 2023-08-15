@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.27865f85.css",
+    "main.js": "/static/js/main.2607f621.js",
+    "static/js/787.7eac1b81.chunk.js": "/static/js/787.7eac1b81.chunk.js",
+    "static/media/mountains.jpg": "/static/media/mountains.67123033c7d73675d467.jpg",
+    "static/media/tree.jpg": "/static/media/tree.1377ef8f57eeaa6d70ae.jpg",
+    "static/media/dandelions.jpg": "/static/media/dandelions.e40a89ee42dd0e387287.jpg",
+    "static/media/Blothia Regular 400.otf": "/static/media/Blothia Regular 400.69957e69054cd971dc9a.otf",
+    "index.html": "/index.html",
+    "main.27865f85.css.map": "/static/css/main.27865f85.css.map",
+    "main.2607f621.js.map": "/static/js/main.2607f621.js.map",
+    "787.7eac1b81.chunk.js.map": "/static/js/787.7eac1b81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27865f85.css",
+    "static/js/main.2607f621.js"
+  ]
+}
